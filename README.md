@@ -3,7 +3,7 @@
 
 ```csharp
 github.com/ung4oforever
-dc   $  @ix5o
+dc   $  @ixo5
 srv  $  discord.gg/lone
 web  $  www.lone-best.xyz
 contact me  $  lone.support@gmail.com
