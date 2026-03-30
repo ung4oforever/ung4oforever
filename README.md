@@ -9,7 +9,7 @@
 ```csharp
 github     $  ung4oforever
 dc         $  @ix5o
-srv        $  discord.gg/lone
+srv        $  discord.gg/kxi
 web        $  www.lone-best.xyz
 contact me $  lone.support@gmail.com
 focus      $  software engineering
