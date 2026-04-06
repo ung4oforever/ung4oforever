@@ -10,7 +10,6 @@
 github     $  ung4oforever
 dc         $  @ix5o
 srv        $  discord.gg/kxi
-web        $  www.lone-best.xyz
 contact me $  lone.support@gmail.com
 focus      $  software engineering
 learning   $  python | backend | security
