@@ -7,9 +7,9 @@
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 
 ```csharp
-github     $  ung4oforever
-dc         $  @ix5o
-srv        $  discord.gg/kxi
-contact me $  lone.support@gmail.com
+github     $  zayy
+dc         $  @6cjb
+srv        $  discord.gg/alonenow
+contact me $  zayybot.dev@gmail.com
 focus      $  software engineering
 learning   $  python | backend | security
