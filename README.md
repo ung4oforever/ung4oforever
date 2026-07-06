@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 
 ```csharp
-github     $  zayy
+github     $  ung4oforever
 dc         $  @6cjb
 srv        $  discord.gg/alonenow
 contact me $  zayybot.dev@gmail.com
