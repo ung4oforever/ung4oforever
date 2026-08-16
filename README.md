@@ -10,6 +10,6 @@
 github     $  ung4oforever
 dc         $  @6cjb
 srv        $  discord.gg/clyredd
-contact me $  zayybot.dev@gmail.com
+contact me $  support@zayybot.xyz
 focus      $  software engineering
 learning   $  python | backend | security
