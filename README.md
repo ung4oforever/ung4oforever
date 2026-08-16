@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=ung4oforever;Software+Engineering+Student;Lone+the+best+rbot" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=ung4oforever;Software+Engineering+Student;Zayy+the+best+bot" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ```csharp
 github     $  ung4oforever
 dc         $  @6cjb
-srv        $  discord.gg/alonenow
+srv        $  discord.gg/clyredd
 contact me $  zayybot.dev@gmail.com
 focus      $  software engineering
 learning   $  python | backend | security
