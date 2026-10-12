@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding-00ffaa?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/From-Cartagena%2C%20Colombia-00ffaa?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-SENA-00ffaa?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding-00ffaa?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cartagena%2C%20Colombia-00ffaa?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/SENA-00ffaa?style=for-the-badge&logo=googlescholar&logoColor=black" />
 </p>
 
 <p align="center">
@@ -14,9 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<h2>
-  <img src="https://img.shields.io/badge/-About%20Me-white?style=for-the-badge&logo=aboutdotme&logoColor=black" />
-</h2>
+## About Me
 
 ```yaml
 Name: Zay
@@ -28,41 +26,16 @@ Currently: Building cool stuff & learning more
 Contact: zayybot.dev@gmail.com
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/-Currently-white?style=flat-square&logo=target&logoColor=black" />
-  Working on <b>apps, bots and websites</b>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Studying-white?style=flat-square&logo=googlescholar&logoColor=black" />
-  <b>Ingeniería de Software</b> at <b>SENA</b>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Learning-white?style=flat-square&logo=bookstack&logoColor=black" />
-  Currently exploring <b>Go & LuaU</b>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Ask%20me-white?style=flat-square&logo=chatbot&logoColor=black" />
-  About <b>Python, React, Node, Go, Docker</b>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Reach%20me-white?style=flat-square&logo=maildotru&logoColor=black" />
-  <b>zayybot.dev@gmail.com</b>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/-Fun%20fact-white?style=flat-square&logo=musicbrainz&logoColor=black" />
-  I code while listening to music
-</p>
+- **Currently** → Working on apps, bots and websites
+- **Studying** → Ingeniería de Software at SENA
+- **Learning** → Go & LuaU
+- **Ask me about** → Python, React, Node, Go, Docker
+- **Reach me** → zayybot.dev@gmail.com
+- **Fun fact** → I code while listening to music
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<h2>
-  <img src="https://img.shields.io/badge/-Tech%20Stack-white?style=for-the-badge&logo=codefactor&logoColor=black" />
-</h2>
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,go,docker,html,css,js,cpp,lua&theme=dark" />
@@ -76,9 +49,7 @@ Contact: zayybot.dev@gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<h2>
-  <img src="https://img.shields.io/badge/-GitHub%20Stats-white?style=for-the-badge&logo=github&logoColor=black" />
-</h2>
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ung4oforever&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ffaa&icon_color=00ffaa" />
@@ -94,9 +65,7 @@ Contact: zayybot.dev@gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<h2>
-  <img src="https://img.shields.io/badge/-Now%20Playing-white?style=for-the-badge&logo=lastdotfm&logoColor=black" />
-</h2>
+## Now Playing
 
 <p align="center">
   <a href="https://www.last.fm/user/krrpaow666">
@@ -106,9 +75,7 @@ Contact: zayybot.dev@gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<h2>
-  <img src="https://img.shields.io/badge/-Connect%20with%20Me-white?style=for-the-badge&logo=linktree&logoColor=black" />
-</h2>
+## Connect with Me
 
 <p align="center">
   <a href="https://discord.com/users/1488388123154186260">
