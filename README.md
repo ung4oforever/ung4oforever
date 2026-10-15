@@ -69,7 +69,7 @@ Contact: zayybot.dev@gmail.com
 
 <p align="center">
   <a href="https://www.last.fm/user/krrpaow666">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=krrpaow666&width=400&bg_color=0D1117&border_color=00ffaa&text_color=00ffaa&count=3" />
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=krrpaow666&count=10&stats=block-center&footer=wave&bg_color=000000&artist_color=ffffff&meta_color=bfbfbf" />
   </a>
 </p>
 
